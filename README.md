@@ -1,6 +1,6 @@
-<h1>Site .Git</h1>
+<h1 align="center">Site .Git</h1>
 
-<p>A equiepe BitBusters vendo que o Git hoje em dia é um das principais ferramentas de Controle de Versão, está desenvolvendo o site intitulado .Git</p>
+<p align="center">A equiepe BitBusters vendo que o Git hoje em dia é um das principais ferramentas de Controle de Versão, está desenvolvendo o site intitulado .Git</p>
 
 <h2>Objetivo do site:</h2>
 <p>O site .Git tem como o objetivo principal ser uma ferramenta a mais, de estudo da utilização do Git </p>
