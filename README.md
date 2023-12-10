@@ -22,7 +22,7 @@
 <p>Nosso site ainda está na parte de desenvolvimento, mas em breve estará disponível para todo o público</p>
 
 <h2>Tecnologias usadas:</h2>
-<p>Nossa Equipem usou o HTML e CSS puro, só com o auxílio de biblioteca de icones</p>
+<p>Nossa Equipe usou o HTML e CSS puro, só com o auxílio de biblioteca de icones</p>
 
 <h2>Quem mantém e contribui com o projeto</h2>
 <p>Esse é um projeto academico da disciplina de Gerência e Configuração de Mudanças do Instituto Federal da Paraíba, Campus Cajazeiras, disciplina essa ministrada pelo professor Paulo Freitas</p>
