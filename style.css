@@ -102,3 +102,32 @@ body{
     padding: 9px;
     background-color: var(--color-4);
 }
+
+h1{
+    margin: 10px;
+    text-align: center;
+}
+h2{
+    margin:20px;
+    text-align: center;   
+}
+
+#parametro .elemento2 h3{
+    margin: 10px;
+    
+}
+
+#parametro .elemento h3{
+    margin: 10px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+h4{
+    margin: 20px;
+}
+
+.img_home_page{
+    width: 300px;
+}
+
