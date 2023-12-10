@@ -131,3 +131,33 @@ h4{
     width: 300px;
 }
 
+footer{
+    background-color: var(--color-1);
+    display: flex;
+
+}
+
+.logo-rodape{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-logo{
+    margin: 10px;
+    width: 120px;
+}
+
+footer .redes-sociais{
+    display: flex;
+    margin: 10px;
+}
+
+footer .redes-sociais i{
+    color: var(--color-2);
+}
+
+.copyright{
+    color: var(--color-2);
+    margin: 20px;
+}
